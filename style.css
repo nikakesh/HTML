@@ -1,0 +1,31 @@
+body{
+    background-color: red
+}
+.a{
+    background-color: white;
+    color: red;
+    height: 100px;
+    font-size: 50px;
+    text-align: center;
+    border: solid;
+    border-color: black;
+    margin: 10px;
+}
+.b{
+    width: 300px;
+    border-radius: 150px;
+    float: left;
+    margin: 10px;
+}
+.c{
+    float: left;
+    width: 250px;
+    margin: 10px;
+}
+.d{
+    width: 435px;
+    margin: 10px;
+}
+.e{
+    width: 250px;
+}
